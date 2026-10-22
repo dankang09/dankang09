@@ -21,6 +21,11 @@
 | [purple-sentinel](https://github.com/dankang09/purple-sentinel) | Red/Blue LLM 에이전트가 공격 재현과 탐지 검증을 주고받는 Multi-Agent 퍼플팀 검증 플랫폼 | 🚧 진행 중 |
 | [Hana_Reservation](https://github.com/dankang09/Hana_Reservation) | Django 은행 영업점 방문 예약 서비스 (2022) · 2026 보안 셀프 리뷰 후 공개 | ✅ 완료 |
 
+#### Notes
+
+- **[Penetration Testing Cheat Sheet](https://chain-tellurium-bc5.notion.site/Cheat-Sheet-2248d47618e980128f7ede1b165d2b19)** — 환경 설정부터 초기 침투·권한 상승·AD·피버팅까지 단계별 기법 정리
+- **[Penetration Testing Write-ups](https://chain-tellurium-bc5.notion.site/Write-ups-3228d47618e980e2b6e8d2166ea3ccff)** — HTB·OffSec PG 실습 호스트 풀이 기록, 공격 체인과 교훈 중심
+
 #### Certifications & Education
 
 - **OSCP** — OffSec Certified Professional (2026)
