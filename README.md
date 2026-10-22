@@ -3,7 +3,7 @@
 금융권에서 공격과 방어를 함께 검증하는 퍼플팀 보안 엔지니어입니다.
 공격을 직접 재현해 탐지 공백을 찾고, 반복되는 검증을 코드로 자동화하는 일을 합니다. 지금은 그 흐름을 AI 에이전트로 확장하고 있습니다.
 
-*Purple team security engineer in the financial sector — reproducing attacks, measuring detection gaps, and automating the loop, now with AI agents.*
+*Purple team security engineer in the financial sector — reproducing attacks, measuring detection gaps, and automating the loop in Python. Currently building toward AI-agent-based validation.*
 
 ---
 
