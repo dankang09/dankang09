@@ -18,7 +18,7 @@
 
 | Project | Description | Status |
 |---|---|---|
-| [purple-sentinel](https://github.com/dankang09/purple-sentinel) | Red/Blue LLM 에이전트가 공격 재현과 탐지 검증을 주고받는 Multi-Agent 퍼플팀 검증 플랫폼 | 🚧 진행 중 |
+| [purple-sentinel](https://github.com/dankang09/purple-sentinel) | AI 에이전트 기반 퍼플팀 검증 플랫폼 (개발 중) · 현재 보안 로그 분석·CLI·테스트 기반 구현 | 🚧 진행 중 |
 | [Hana_Reservation](https://github.com/dankang09/Hana_Reservation) | Django 은행 영업점 방문 예약 서비스 (2022) · 2026 보안 셀프 리뷰 후 공개 | ✅ 완료 |
 
 #### Notes
@@ -35,7 +35,7 @@
 
 #### Stack
 
-`Python` `Django` `LLM Agents` `Tool Calling` `SIEM` `BAS` `Active Directory` `Linux` `Git`
+`Python` `Django` `SIEM` `BAS` `Active Directory` `Linux` `Git`
 
 ---
 
